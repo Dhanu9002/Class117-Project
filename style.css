@@ -1,0 +1,18 @@
+#score{
+    font-size: 20px;
+    margin-left: 15px;
+}
+
+body{
+    background-color: aqua;
+}
+
+#timer{
+    font-size: 5px;
+    float: right;
+    margin-right: 15px;
+}
+
+#sketch{
+    color: black;
+}
